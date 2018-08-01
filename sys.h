@@ -51,4 +51,6 @@ typedef int(*ESPK_PTR)(void*, unsigned int, RSArefPublicKey*);
 
 enum EXPORT_TYPE{SIGN, ENCRYPT};
 
+
+
 #endif //MARVEL_SYS_H
